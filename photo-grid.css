@@ -1,0 +1,55 @@
+.photo-grid {
+    display: grid;
+    gap: 1rem;
+
+    grid-template-columns: repeat(auto-fit, minmax(240px, 1fr));
+    grid-auto-rows: 240px;
+}
+/* medium screens */
+@media screen and (min-width: 600px){
+    .card-tall {
+        grid-row: span 2 / auto;
+    }
+    .card-wide {
+        grid-column: span 2 / auto;
+    }
+}
+.bg1{
+    background-image: url('img/1_mk1-6aYaf_Bes1E3Imhc0A.jpeg');
+}
+.bg2{
+    background-image: url('img/bright-spring-view-cameo-island-260nw-1048185397.webp');
+}
+.bg3{
+    background-image: url('img/GeFvQkBbSLaMdpKXF1Zv_bigstock-Aerial-View-Of-Blue-Lakes-And--227291596.jpg');
+}
+.bg3{
+    background-image: url('img/grapefruit-slice-332-332.jpg');
+}
+.bg4{
+    background-image: url('img/moana_16spp_oidn.jpg');
+}
+.bg5{
+    background-image: url('img/module-6.jpg');
+}
+.bg6{
+    background-image: url('img/photo-1499084732479-de2c02d45fcc.jfif');
+}
+.bg7{
+    background-image: url('img/RKyaEDwp8J7JKeZWQPuOVWvkUjGQfpCx_cover_580.jpg');
+}
+.bg8{
+    background-image: url('img/image-3.jpg');
+}
+.bg9{
+    background-image: url('img/main-bg.jpg');
+}
+.bg10{
+    background-image: url('img/983794168.jpg');
+}
+.bg11{
+    background-image: url('img/Image-of-a-supermassive-black-hole-created-from-data-captured-by-the-Event-Horizon-Telescope-EHT-850x850.jpg');
+}
+.bg12{
+    background-image: url('img/website.jpg');
+}

@@ -1,2 +1,1 @@
-# Responsive-Grid
-Diversos Modelos de Grid Responsivos para Uso em Projetos
+https://www.youtube.com/watch?v=705XCEruZFs
