@@ -27,3 +27,28 @@ body{
     box-shadow: rgba(2, 8, 20, 0.1) 0px 0.35rem 1.17rem, rgba(2, 8, 20, 0.08) 0px 0.17rem 0.5rem;
     transform: translateY(-3px) scale(1.1);
 }
+/* Index*/
+.index{
+    height: 50vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.index ul{
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+.index li{
+    text-align: center;
+}
+.index a{
+    color: #fff;
+    text-decoration: none;
+    font-size: 35px;
+    text-transform: uppercase;
+    line-height: 2em;
+}
+.index a:hover{
+    color: #aaa;
+}
