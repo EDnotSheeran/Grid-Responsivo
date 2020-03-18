@@ -1,3 +1,3 @@
-# Resposive Grid
+# Grid Resposivo
 ### Modelos de Grid resposivos para uso em Projetos
-[Visualizar](https://ednotsheeran.github.io/Responsive-Grid/.)
+[Visualizar](https://ednotsheeran.github.io/Grid-Responsivo/)
